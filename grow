@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A guide to effective muscle growth through training, nutrition, and recovery.">
+    <title>Muscle Growth Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            background: #444;
+            padding: 0.5rem 0;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 1rem;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            max-width: 800px;
+            margin: 2rem auto;
+            background: #fff;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        section img {
+            max-width: 100%;
+            height: auto;
+            margin: 1rem 0;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Muscle Growth Guide</h1>
+        <p>Your ultimate guide to building strength and gaining muscle effectively.</p>
+    </header>
+    <nav>
+        <a href="#training">Training</a>
+        <a href="#nutrition">Nutrition</a>
+        <a href="#recovery">Recovery</a>
+    </nav>
+    <section id="training">
+        <h2>Training</h2>
+        <img src="https://via.placeholder.com/800x400?text=Training" alt="Training illustration">
+        <p>To build muscle, focus on compound exercises like squats, deadlifts, bench presses, and pull-ups. Aim for 8-12 reps per set for hypertrophy and progressively increase the weight you lift.</p>
+        <ul>
+            <li>Train 3-5 times a week with sufficient intensity.</li>
+            <li>Include both compound and isolation exercises.</li>
+            <li>Maintain proper form to prevent injuries.</li>
+        </ul>
+    </section>
+    <section id="nutrition">
+        <h2>Nutrition</h2>
+        <img src="https://via.placeholder.com/800x400?text=Nutrition" alt="Nutrition illustration">
+        <p>Nutrition is key for muscle growth. Consume a diet rich in protein, healthy fats, and complex carbohydrates.</p>
+        <ul>
+            <li>Protein: Essential for muscle repair and growth. Aim for 1.6-2.2g per kg of body weight daily.</li>
+            <li>Carbohydrates: Provide energy for workouts. Choose whole grains, fruits, and vegetables.</li>
+            <li>Fats: Support hormone production. Include sources like nuts, seeds, and avocados.</li>
+        </ul>
+    </section>
+    <section id="recovery">
+        <h2>Recovery</h2>
+        <img src="https://via.placeholder.com/800x400?text=Recovery" alt="Recovery illustration">
+        <p>Muscles grow during rest, not while training. Ensure proper recovery to maximize gains.</p>
+        <ul>
+            <li>Sleep: Get 7-9 hours of quality sleep every night.</li>
+            <li>Hydration: Drink enough water to support recovery and performance.</li>
+            <li>Active Rest: Include light activities like walking or yoga on rest days.</li>
+        </ul>
+    </section>
+    <footer>
+        <p>&copy; 2024 Muscle Growth Guide. All rights reserved.</p>
+    </footer>
+</body>
+</html>
